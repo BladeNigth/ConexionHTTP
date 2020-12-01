@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConexionHTTP</string>
+    <string name="filtrar">Filtrar Municipio</string>
+</resources>
